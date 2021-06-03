@@ -11,6 +11,6 @@ brew tap xhd4/macsec
 Then you can install individual products via:
 
 ```bash
-brew install xhd4/macsec/process-monitor
+brew install xhd4/macsec/processmonitor
 ```
 
